@@ -1,0 +1,15 @@
+## Title: ggTacticalTide
+## Author: gamegenius86 (Formally by SkyByte)
+## APIVersion: 100003
+## SavedVariables: TT_SavedVars
+
+lib/LibStub/LibStub.lua
+lib/LibAddonMenu-1.0/LibAddonMenu-1.0.lua
+
+ggTacticalTide.lua
+ggTacticalTide.xml
+
+UI.lua
+Util.lua
+Cyrodiil.lua
+Settings.lua

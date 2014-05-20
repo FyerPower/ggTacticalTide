@@ -1,0 +1,11 @@
+<GuiXml>
+    <Controls>
+        <TopLevelControl name="TacticalTalk" mouseEnabled="false">
+			<Dimensions x="1" y="1" />
+			<Anchor point="CENTER" />
+            <OnUpdate>
+				TT.OnUpdate()
+            </OnUpdate>
+        </TopLevelControl>
+	</Controls>
+</GuiXml>
